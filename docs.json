@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings then Security then Reset Password."
+  },
+  {
+    "title": "Account Creation",
+    "content": "Users can create an account by clicking the Sign Up button on the homepage."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can delete their account from Settings then Account Management."
+  }
+]
