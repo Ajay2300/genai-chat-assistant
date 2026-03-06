@@ -1,4 +1,5 @@
 flask
-google-generativeai
 numpy
-scikit-learn
+python-dotenv
+google-generativeai
+gunicorn
