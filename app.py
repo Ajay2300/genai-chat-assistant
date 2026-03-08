@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, jsonify
 import json
 import numpy as np
 import google.generativeai as genai
+from dotenv import load_dotenv
+load_dotenv()
 
 # ADD YOUR API KEY HERE
 import os
