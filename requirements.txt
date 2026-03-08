@@ -1,5 +1,5 @@
 flask
 numpy
-python-dotenv
 google-generativeai
+python-dotenv
 gunicorn
